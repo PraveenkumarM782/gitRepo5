@@ -70,6 +70,7 @@ public class EmployeeService {
 		
 		er.deleteById(eid);
 		
+		System.out.println("hello");
 	}
 	
 	
